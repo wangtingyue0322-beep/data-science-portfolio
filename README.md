@@ -11,6 +11,7 @@ Source of my portfolio site, published with **GitHub Pages** from the `main` bra
 | `index.md` | the site entry page — profile, skills and project showcase |
 | `figures/` | the two visualisations embedded in the showcase |
 | `_config.yml` | GitHub Pages / Jekyll settings |
+| `reviews/` | written feedback on the site — first-reader test for Practice 09, item 04.02 |
 
 ## The project behind the showcase
 

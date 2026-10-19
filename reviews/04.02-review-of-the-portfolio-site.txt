@@ -1,0 +1,18 @@
+REVIEW OF THE PORTFOLIO SITE
+First-reader test for Practice 09, item 04.02
+
+
+PART 1 - THE THREE QUESTIONS
+Purpose of the project. Answered immediately. The subtitle under the project heading states it: whether U.S. family incomes grew, stagnated or spread apart between 1972 and 2016, and how much of the change is accounted for by education. No scrolling needed.Main finding. Answerable, but it took two passes. The four bullets give: p10 down 26.5%, p25 down 22.3%, median down 11.5%, p90 up 1.2%, Gini 0.33 to 0.38, and an education gradient from minus 33.8% to plus 12.3%. I could reconstruct the story, but I had to do the summing up myself. There is no single sentence that says what the result means before the numbers start.Limitation. Clear and unusually well handled. Income is top-coded, the cap absorbs 7 to 11% of respondents, so every inequality measure is a lower bound; the direction is robust, the magnitude is not. This is the strongest paragraph on the page.
+
+PART 2 - WHAT IS WEAK, IN ORDER OF SEVERITY
+The page never says what data the project uses. Nowhere on the page do the words "General Social Survey" appear, and there is no mention of where 55,343 respondents come from. That was the first question I wanted to ask and the page gave me no answer. It is in the project README, but a visitor to the portfolio does not go there first.
+p10, p25, p75 and p90 are never defined. A reader without a statistics background will stop at "p90 moved +1.2%". The phrase "at the 10th percentile" appears once, inside the figure explanation, but the other three labels are used without explanation.
+No one-line takeaway. The findings open with four dense bullets. The reader has to derive the headline instead of being given it."Constant dollars" is not explained. It is obvious to an economist and opaque to everyone else; one clause would fix it.
+The figure explanation sits below the figure rather than in a caption, so a reader has to scroll past a long paragraph to learn which line is which period.
+
+PART 3 - WHAT WORKS
+The limitation paragraph is the best writing on the page: it explains why the number is wrong, not just that it is uncertain. The four figures each do exactly one job and none of them is decoration. Every number on the page is reproducible from the repository, and the README says so and states the runtime.
+
+PART 4 - TWO CHANGES I WOULD MAKE FIRST
+Put the data source directly under "Why it matters", one line only: Data, General Social Survey 1972-2016, 55,343 U.S. respondents, survey-weighted, in constant dollars.Put one plain sentence above the bullets: The distribution did not shift, it spread. The bottom lost about a quarter of its real income, the top barely moved, and education is the line that separates the two.Both are under four lines in total and fix the two most serious gaps without changing the structure.
