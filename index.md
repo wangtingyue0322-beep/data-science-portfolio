@@ -32,6 +32,9 @@ apart — and how much of the change is accounted for by education?
 hides the shape around it. If the bottom falls while the top stays flat, a "stagnant median" is not
 the absence of change; it is a redistribution.
 
+**Data.** General Social Survey (GSS), 1972–2016 — 55,343 U.S. respondents, survey-weighted, with
+income in constant dollars (a 1972 dollar and a 2016 dollar are the same unit).
+
 ![Cumulative distribution of U.S. family income, 1970s versus 2010s](figures/fig1_income_cdf_1970s_vs_2010s.png)
 
 **What the figure shows.** Each curve is the cumulative distribution of real family income for one
@@ -42,6 +45,9 @@ where the change is under 2%. The flattening above the 90th percentile is not a 
 rich: it is where the survey stops measuring, because income is top-coded.
 
 **Key findings.**
+
+*The distribution did not shift — it spread: the bottom lost about a quarter of its real income, the
+top barely moved, and education is the line that separates the two.*
 
 * The bottom lost ground: p10 fell 26.5%, p25 fell 22.3%, and the median fell 11.5% in constant dollars.
 * The top held rather than gained: p90 moved +1.2% over four decades.
