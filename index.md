@@ -1,5 +1,3 @@
-# Wang Tingyue — Data Science Portfolio
-
 MSc student at the University of Macau. I analyse tabular data with Python — cleaning it, testing
 whether the pattern survives a change of method, and communicating the result with visualisations
 that can be read without a legend. My background also includes software testing, which shows up in
